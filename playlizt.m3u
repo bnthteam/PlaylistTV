@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://epgx.site/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1315,7 +1315,7 @@ http://158.101.194.132:8080/channel/21ed4cf6/index.m3u8?q=5656d7c7c902657d3491c0
 https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://dvb.by/sources/logos/1092s.png" group-title="Детские", Жара HD
-http://188.113.190.15/328/tracks-v1a1/index.m3u8
+http://188.113.190.15/328/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_62c84101314a0b3c3e0c0209_657052450971875120c2e3d6/xxh" group-title="Детские", Сказки Зайки
 http://158.101.194.132:8080/channel/79d0e9e4/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
@@ -2603,6 +2603,12 @@ http://live.redtraffic.xyz/milf.m3u8
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 tvg-id="no_epg_xxx" group-title="Взрослые",POV HD 720
 http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", 🔹TELEGRAM🔹 HTTPS://T.ME/IPTV_SHARED🔹
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 25.03.2024г.
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
 
 
 

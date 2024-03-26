@@ -719,7 +719,7 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/video_3840x2160_avc1/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ultra-hd-cinema" group-title="Кино и сериалы",UltraHD Cinema 4K
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",VIJU+ PREMIERE HD
